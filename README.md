@@ -1,4 +1,4 @@
-# DatasetCreator
+# Dataset Creator with GPT-Neo1.3B
 
 # Q&A and Model Fine-Tuning with GPT-Neo
 
